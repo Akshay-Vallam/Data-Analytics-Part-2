@@ -22,22 +22,22 @@ This project involves:
 
 1. **Analytics & Reporting**: Creating SQL-based reports and dashboards for actionable insights.
 
-This project involves the below:
-Exploratory Data Analytics (EDA) consists of the below:
- - Database Exploration
- - Dimensions Exploration
- - Data Exploration
- - Measures Exploration
- - Magnitude
- - Ranking (Top N - Bottom N)
+    This project involves the below:
+    Exploratory Data Analytics (EDA) consists of the below:
+    - Database Exploration
+    - Dimensions Exploration
+    - Data Exploration
+    - Measures Exploration
+    - Magnitude
+    - Ranking (Top N - Bottom N)
 
-Advanced Analytics consists of the below:
- - Change-Over-Time (Trends)
- - Cumulative Analysis
- - Performance Analysis
- - Part-to-Whole (Proportional)
- - Data Segmentation
- - Reporting
+    Advanced Analytics consists of the below:
+    - Change-Over-Time (Trends)
+    - Cumulative Analysis
+    - Performance Analysis
+    - Part-to-Whole (Proportional)
+    - Data Segmentation
+    - Reporting
 
 ## Repository Structure
 ```
